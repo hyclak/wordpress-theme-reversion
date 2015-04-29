@@ -1,10 +1,10 @@
 === iNove ===
-Contributors: mg12
-Donate link: http://www.neoease.com/themes/
+Contributors: hyclak,mg12
+Donate link: http://amzn.to/1DJTHlz
 Tags: white, light, two-columns, fixed-width, theme-options, right-sidebar
 Requires at least: 2.5
-Tested up to: 2.8.3
-Stable tag: 1.4.6
+Tested up to: 4.2
+Stable tag: 1.5
 
 == Description ==
 
