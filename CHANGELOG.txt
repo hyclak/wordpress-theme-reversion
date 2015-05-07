@@ -1,4 +1,7 @@
     VERSION DATE       TYPE   CHANGES
+    1.5.1   2015/05/07 MODIFY Remove blog title from page title as it is appended to the end already.
+    1.5.0   2015/04/29 NEW    Imported to new theme name.
+                       FIX    Corrected the wrong number of arguments to $wpdb->prepare in footer.php
     1.4.6   2009/08/07 NEW    Added 'web analytics' options.
                        NEW    Added 'twitter' options.
                        NEW    Added Kurdish language support. (Thanks Sia)
