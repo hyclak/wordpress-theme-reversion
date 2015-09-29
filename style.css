@@ -2,7 +2,7 @@
 Theme Name: reversion
 Theme URI: https://github.com/hyclak/wordpress-theme-reversion/
 Description: Inspired by iNove, created by hyclak. It is very stylish, widget supported and doesn’t require any plugin.
-Version: 1.5.1
+Version: 1.5.2
 Author: hyclak
 Author URI: http://blog.reversion.org/
 Tags: white, light, two-columns, fixed-width, theme-options, right-sidebar
@@ -480,7 +480,7 @@ textarea {
 	margin-bottom:10px;
 }
 .post .content img {
-	max-width:600px;
+	max-width:900px;
 }
 .post .content ul, 
 .post .content ol {
